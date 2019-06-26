@@ -11,3 +11,11 @@ Click on the image below to watch a video about how the Internet works or if you
 [![](images/internet.jpeg)](https://youtu.be/34smxmFIiXk)
 
 ## What is the Internet?
+
+Think of the Internet as a vast network of wires buried in the ground (and sea) running across the globe. 
+
+
+It may be helpful to think of the Internet in two parts:
+* Hardware
+* Protocol
+
