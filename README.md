@@ -31,6 +31,6 @@ Every device connected to the Internet has to have an 'address' so that they can
 We've already spoken of one job of computers - to store files, this is done by servers.
 A computer that requests for these files is called a _client_. When you open up a browser - let's say Firefox - and type in www.facebook.com, Firefox is the client asking Facebook's server for the files (Facebook's webpages). 
 
-Yet another type of computer exists on the Internet - these are called _routers_. A router's job is to connect you to the ISP which in turn gets you to the Internet. If you have several computers or devices in your home, a single router connect all of them to the Internet. This is done because the router emits radio waves, and if your computer or device is within the range of those waves, you can connect to the Internet **wirelessly**. This is called a Wifi connection
+Yet another type of computer exists on the Internet - these are called _routers_. A router's job is to connect you to the ISP which in turn gets you to the Internet. If you have several computers or devices in your home, a single router connect all of them to the Internet. This is done because the router emits radio waves, and if your computer or device is within the range of those waves, you can connect to the Internet **wirelessly**. This is called a Wifi connection.
 
 
