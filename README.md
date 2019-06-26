@@ -36,4 +36,6 @@ A computer that requests for these files is called a _client_. When you open up 
 
 Yet another type of device exists to access the Internet - these are called _routers_. A router's job is to connect you to the ISP which in turn gets you to the Internet. If you have several computers or devices in your home, a single router connect all of them to the Internet. This is done because the router emits radio waves, and if your computer or device is within the range of those waves, you can connect to the Internet **wirelessly**. This is called a Wifi connection.
 
+![Wifi connection](images/Wifi.gif)
+
 
