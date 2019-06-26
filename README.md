@@ -14,7 +14,7 @@ Click on the image below to watch a video about how the Internet works or if you
 
 Think of the Internet as a vast network of wires buried in the ground (and sea) running across the globe. 
 
-![Undersea cables](https://gph.is/g/Zx1vemq)
+![Undersea cables](images/undersea.gif)
 
 
 
