@@ -18,7 +18,7 @@ Think of the Internet as a vast network of wires buried in the ground (and sea) 
 
 Special computers called _servers_ are connected to this wire(s). Think of these as filing cabinets that store information (files) and pass it on when you ask for them. These servers can communicate with another server that is connected to the wire. All these linked-up computers are what make up the Internet - it is a network of computers.
 
-![Server](images/Server.png)
+
 
 The Internet just has one job - to move information (known as _data_) from one place to another. Let's look at how this is done.
 
