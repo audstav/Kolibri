@@ -32,6 +32,8 @@ So we already know one type of computer - servers - whose job is to store files.
 
 ![Client Server model](images/CSS1.png)
 
+[Go back to the top](#how-does-the-internet-work)
+
 ## What is a network?
 
 At its most basic, a network is two or more computers that are linked in order to communicate with each other. Here are two very common types of networks:
@@ -45,6 +47,7 @@ The Internet just has one job - to move information (known as _data_) from one p
 
 Every device connected to the Internet has to have an 'address' so that they can be found by another computer (just like a postal address lets the mailman find you). This is called an **Internet Protocol address** (IP address) and is represented by a series of numbers. For example, the IP address 172.217.7.238 will lead you to the home page of www.google.com. IP addresses let machines find each other on the huge network of computers.  
 
+[Go back to the top](#how-does-the-internet-work)
 
 ## How do I access the Internet?
 
@@ -60,3 +63,5 @@ If you have several computers or devices in your home or school, a single router
 ### Bonus:
 
 Here's another geeky fact - many people think that the Web and the Internet are the same thing, but they're not! The Internet existed well before the World Wide Web was invented. As we have learnt, the Internet is a huge network of computers, while the Web is a service or application that sits on top of this network. The Web is a way of accessing information through the Internet (another way being email, or instant messaging). If the Internet is a library, the Web is the collection of books, magazines etc. (websites) inside it!
+
+[Go back to the top](#how-does-the-internet-work)
