@@ -8,7 +8,8 @@ In this tutorial, you will learn:
 
 Click on the image below to watch a video about how the Internet works or if you prefer to read the guide instead, keep scrolling down.
 
-[![](images/kolibribird.png)](https://youtu.be/34smxmFIiXk)
+[![](images/kolilbribird.png)](https://youtu.be/34smxmFIiXk)
+
 
 ## What is the Internet?
 
