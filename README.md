@@ -51,7 +51,7 @@ Every device connected to the Internet has to have an 'address' so that they can
 
 ## How do I access the Internet?
 
-When a client wants to access the Internet, it needs to go through an organization called an **Internet Service Provider** (ISP). An ISP lets you use and access the Internet. Yet another type of device called a **router** exists to access the Internet. A router's job is to connect you to the ISP which in turn gets you to the Internet. It looks like this:
+When a client wants to connect to the Internet, it needs to go through an organization called an **Internet Service Provider** (ISP). An ISP is a company that lets you access the Internet. Yet another type of device called a **router** exists to use the Internet. A router's job is to connect you to the ISP which in turn gets you to the Internet. It looks like this:
 
 ![Accessing the Internet](images/ISP.png)
 
