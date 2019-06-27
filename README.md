@@ -1,7 +1,7 @@
 # How does the Internet work?
 
 In this tutorial, you will learn:
-* [What is the Internet?](#what-is-the-internet?)
+* [What is the Internet?](#what-is-the-internet-?)
 * What are Clients and Servers?
 * What is a network?
 * What is an IP address?
