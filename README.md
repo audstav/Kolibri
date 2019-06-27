@@ -2,10 +2,10 @@
 
 In this tutorial, you will learn:
 * [What is the Internet?](#what-is-the-internet)
-* What are Clients and Servers?
-* What is a network?
-* What is an IP address?
-* How do I access the Internet?
+* [What are Clients and Servers?](#what-are-clients-and-servers)
+* [What is a network?](#what-is-a-network)
+* [What is an IP address?](#what-is-an-ip-address)
+* [How do I access the Internet?](#how-do-i-access-the-internet)
 
 Click on the image below to watch a video about how the Internet works or if you prefer to read the guide instead, keep scrolling down.
 
