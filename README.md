@@ -3,7 +3,7 @@
 In this tutorial, you will learn:
 * [What is the Internet?](#what-is-the-internet)
 * [What are Clients and Servers?](#what-are-clients-and-servers)
-* [What is a network?](#what-is-a-network)
+* [What is a Network?](#what-is-a-network)
 * [What is an IP address?](#what-is-an-ip-address)
 * [How do I access the Internet?](#how-do-i-access-the-internet)
 
@@ -34,7 +34,7 @@ So we already know one type of computer - servers - whose job is to store files.
 
 [Go back to the top](#how-does-the-internet-work)
 
-## What is a network?
+## What is a Network?
 
 At its most basic, a network is two or more computers that are linked in order to communicate with each other. Here are two very common types of networks:
 * **Local Area Network (LAN)**: This refers to when a network of computers happens to be in the same physical location - like a school or office building. 
